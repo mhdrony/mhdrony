@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md. Rany Ahmed
 #### AI, ML & Gen-AI | Teacher | Kaggle Contributor | Backend Developer Python
-![AI, ML & Gen-AI | Teacher | Kaggle Contributor | Backend Developer Python](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![AI, ML & Gen-AI | Teacher | Kaggle Contributor | Backend Developer Python](https://media.licdn.com/dms/image/v2/D5616AQFOKtdvmkKfbw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729953067150?e=1735171200&v=beta&t=PbhLFD-IOkXT_YLl950E6dW4zNnYH6fmH-ME1TOmdic)
 
 I am particularly a Machine Learning guy. I prefer to explore new ideas, techniques, and ways in AI and ML-related algorithms through research. This gives me the flexibility to dive into new experiences. I'm interested in taking on new challenges.
 
